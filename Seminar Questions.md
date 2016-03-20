@@ -23,13 +23,18 @@ He writes, *"in my experience, question-driven close reading and interpretation 
 #Practical Points from the Experts 
 Below are a few quotes/resources based on the handbooks and links During provided in his introduction. I took a few quotes from them that I found useful when thinking about data visualization: 
 
-"1. Collect and store data in one spreadsheet and use a copy of visualizations
+1. Collect and store data in one spreadsheet and use a copy of visualizations
+
 2. Make sure you understand the basic rationale behind any centrality and layout algorithms you choose as they will affect your view on your data. Wikipedia is usualy a good source for comprehensive information on them
-3. Dont' hesitate to revise and start over if you sense that your coding scheme does not work out as expected. It will definitely be worth it." -[Martin During](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
+
+3. Dont' hesitate to revise and start over if you sense that your coding scheme does not work out as expected. It will definitely be worth it. -[Martin During](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
+4. 
 **I find number 3 on During's tips to be reflective of an important aspect of this class: if you fail at something, it means you have attempted, and that is success in itself. I have learned that everytime I fail at something in the digital world, I remind myself that it only makes successfully completing something in the future that much sweeter!** 
 
 "Generally, network studies are made under the assumption that neither the stuff nor the relationships are the whole story on their own. If you’re studying something with networks, odds are you’re doing so because you think the objects of your study are *interdependent* rather than *independent*. Representing information as a network implicitly suggests not only that connections matter, but that they are required to understand whatever’s going on." -[Scott Weingart](http://www.scottbot.net/HIAL/?p=6279) 
+
 **Do you agree with Weingart? Discuss.** 
 
 The Historical Research Network has a good set of tutorials, lists of tools available to get started on [Network Research](http://historicalnetworkresearch.org/resources/external-resources/#2)
+
 **There are really good tutorials on this database, and very interesting opportunities for historians interested in networks. I recommend you check it out!** 

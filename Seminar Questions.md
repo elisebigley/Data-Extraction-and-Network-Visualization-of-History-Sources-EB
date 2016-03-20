@@ -23,7 +23,7 @@ He writes, *"in my experience, question-driven close reading and interpretation 
 #Practical Points from the Experts 
 Below are a few quotes/resources based on the handbooks and links During provided in his introduction. I took a few quotes from them that I found useful when thinking about data visualization: 
 
-"1. Collect and store data in one spreadsheet and use a copy of visualizations 
+"1. Collect and store data in one spreadsheet and use a copy of visualizations
 2. Make sure you understand the basic rationale behind any centrality and layout algorithms you choose as they will affect your view on your data. Wikipedia is usualy a good source for comprehensive information on them
 3. Dont' hesitate to revise and start over if you sense that your coding scheme does not work out as expected. It will definitely be worth it." -[Martin During](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources)
 **I find number 3 on During's tips to be reflective of an important aspect of this class: if you fail at something, it means you have attempted, and that is success in itself. I have learned that everytime I fail at something in the digital world, I remind myself that it only makes successfully completing something in the future that much sweeter!** 

@@ -21,9 +21,9 @@ I really liked that he was transparent about what us as researchers contribute t
 He writes, *"in my experience, question-driven close reading and interpretation on onse side and data coding and visualization on the other are not at all separate processes but intertwined and they can complement each other very effectively. Play is not generally considered to be something very academic, but especially with this type of data it is a valuable investment of your time: You dont' just play with your data, you rearrange and thereby constantly rethink what you know about yout topic and what you **can** know about your topic"* Do you feel this way with your own research? How does During's reflections on data visualization reflect what we have been doing this entire seminar in Digital History?
 
 #Practical Points from the Experts 
-*"1. Collect and store data in one spreadsheet and use a copy fo visualizations 
+"1. Collect and store data in one spreadsheet and use a copy fo visualizations 
 2. Make sure you understand the basic rationale behind any centrality and layout algorithms you choose as they will affect your view on your data. Wikipedia is usualy a good source for comprehensive information on them
 3. Dont' hesitate to revise and start over if you sense that your coding scheme does not work out as expected. It will definitely be worth it." 
-*
+
 
 
